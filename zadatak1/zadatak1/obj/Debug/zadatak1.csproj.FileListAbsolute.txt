@@ -1,0 +1,10 @@
+C:\Users\Korisnik\Desktop\rssv\zadatak1\zadatak1\bin\Debug\zadatak1.exe.config
+C:\Users\Korisnik\Desktop\rssv\zadatak1\zadatak1\bin\Debug\zadatak1.exe
+C:\Users\Korisnik\Desktop\rssv\zadatak1\zadatak1\bin\Debug\zadatak1.pdb
+C:\Users\Korisnik\Desktop\rssv\zadatak1\zadatak1\obj\Debug\zadatak1.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\rssv\zadatak1\zadatak1\obj\Debug\zadatak1.Form1.resources
+C:\Users\Korisnik\Desktop\rssv\zadatak1\zadatak1\obj\Debug\zadatak1.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\rssv\zadatak1\zadatak1\obj\Debug\zadatak1.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\rssv\zadatak1\zadatak1\obj\Debug\zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\rssv\zadatak1\zadatak1\obj\Debug\zadatak1.exe
+C:\Users\Korisnik\Desktop\rssv\zadatak1\zadatak1\obj\Debug\zadatak1.pdb

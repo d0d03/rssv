@@ -1,0 +1,10 @@
+C:\Users\Korisnik\Desktop\rssv\pr2\pr2\bin\Debug\pr2.exe.config
+C:\Users\Korisnik\Desktop\rssv\pr2\pr2\bin\Debug\pr2.exe
+C:\Users\Korisnik\Desktop\rssv\pr2\pr2\bin\Debug\pr2.pdb
+C:\Users\Korisnik\Desktop\rssv\pr2\pr2\obj\Debug\pr2.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\rssv\pr2\pr2\obj\Debug\pr2.Form1.resources
+C:\Users\Korisnik\Desktop\rssv\pr2\pr2\obj\Debug\pr2.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\rssv\pr2\pr2\obj\Debug\pr2.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\rssv\pr2\pr2\obj\Debug\pr2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\rssv\pr2\pr2\obj\Debug\pr2.exe
+C:\Users\Korisnik\Desktop\rssv\pr2\pr2\obj\Debug\pr2.pdb
